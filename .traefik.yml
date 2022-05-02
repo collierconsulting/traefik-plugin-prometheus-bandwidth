@@ -3,3 +3,4 @@ type: middleware
 import: github.com/collierconsulting/traefik-plugin-prometheus-bandwidth
 summary: Attempts to log bandwidth to a prometheus metrics endpoint
 testData:
+  foo: blah
